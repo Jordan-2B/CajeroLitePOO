@@ -1,8 +1,0 @@
-C:\Users\NierA\source\repos\CajeroLitePOO\bin\Debug\CajeroLitePOO.exe.config
-C:\Users\NierA\source\repos\CajeroLitePOO\bin\Debug\CajeroLitePOO.exe
-C:\Users\NierA\source\repos\CajeroLitePOO\bin\Debug\CajeroLitePOO.pdb
-C:\Users\NierA\source\repos\CajeroLitePOO\obj\Debug\CajeroLitePOO.csproj.AssemblyReference.cache
-C:\Users\NierA\source\repos\CajeroLitePOO\obj\Debug\CajeroLitePOO.csproj.CoreCompileInputs.cache
-C:\Users\NierA\source\repos\CajeroLitePOO\obj\Debug\CajeroLitePOO.exe
-C:\Users\NierA\source\repos\CajeroLitePOO\obj\Debug\CajeroLitePOO.pdb
-C:\Users\NierA\source\repos\CajeroLitePOO\obj\Debug\CajeroLitePOO.exe.config
