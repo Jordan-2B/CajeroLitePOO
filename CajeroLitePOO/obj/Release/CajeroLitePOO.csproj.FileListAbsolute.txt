@@ -1,0 +1,7 @@
+C:\Users\NierA\source\repos\CajeroLitePOO\bin\Release\CajeroLitePOO.exe.config
+C:\Users\NierA\source\repos\CajeroLitePOO\bin\Release\CajeroLitePOO.exe
+C:\Users\NierA\source\repos\CajeroLitePOO\bin\Release\CajeroLitePOO.pdb
+C:\Users\NierA\source\repos\CajeroLitePOO\obj\Release\CajeroLitePOO.csproj.AssemblyReference.cache
+C:\Users\NierA\source\repos\CajeroLitePOO\obj\Release\CajeroLitePOO.csproj.CoreCompileInputs.cache
+C:\Users\NierA\source\repos\CajeroLitePOO\obj\Release\CajeroLitePOO.exe
+C:\Users\NierA\source\repos\CajeroLitePOO\obj\Release\CajeroLitePOO.pdb
